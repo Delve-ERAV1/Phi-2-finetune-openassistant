@@ -46,6 +46,9 @@ A Gradio app has been developed to demonstrate the capabilities of this fine-tun
 ### Deployment:
 
 - The Gradio app demo is deployed on Hugging Face Spaces, allowing for easy access and interaction with the model.
+  
+![image](https://github.com/Delve-ERAV1/Phi-2-finetune-openassistant/assets/11761529/2834073d-f691-4a1f-a088-7abca20cf4c3)
+
 
 ## Getting Started
 
