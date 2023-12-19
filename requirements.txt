@@ -1,0 +1,6 @@
+torch
+transformers 
+einops 
+git+https://github.com/huggingface/peft.git 
+accelerate 
+gradio
